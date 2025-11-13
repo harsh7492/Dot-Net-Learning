@@ -46,3 +46,15 @@ single class contain multiple encapsulation
 loop with F fail
 Wap for multilevel class inheritance  Employee Management 1 class genral Universal Alliance 2. Medical >100000
 3.30 leave paid leave service year >5 private
+Note 13 today
+Add.net ued to onnect with Db
+Entity Framework Core Packages  make easy to connect  with DB latest need package install for this in middle work ORM entity framework
+pre defined classess DB Context used to inherit and establish connection EF Core
+ 
+HW
+student info
+""   list
+update
+Click Browser
+Se Entity framework core
+then .mysqlsql
