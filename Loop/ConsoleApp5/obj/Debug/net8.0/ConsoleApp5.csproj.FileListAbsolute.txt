@@ -1,0 +1,14 @@
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.exe
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.deps.json
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.runtimeconfig.json
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\bin\Debug\net8.0\ConsoleApp5.pdb
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\refint\ConsoleApp5.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.pdb
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ConsoleApp5.genruntimeconfig.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp5\ConsoleApp5\obj\Debug\net8.0\ref\ConsoleApp5.dll

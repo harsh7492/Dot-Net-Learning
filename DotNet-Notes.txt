@@ -1,0 +1,48 @@
+function component
+X++
+Analytical skill
+logical skill
+real life problem solving
+Api
+Swagger
+console read write
+After 6 version all version support dot net core 
+CONSOLE IS OBJECT
+basic
+hra25%
+ta22%
+name
+basic salary 
+da 26% 
+-pf 12%
+gross salary hra da ta pf
+if salary 1 lakh monthly 18% tax - 
+overtime leave amount and net salary
+using System.Collection.Genric for list
+if else
+single condition and single satement
+multiple condition single statement
+multiple condition multiple statement
+nested if else
+
+HW-
+1.WAP a parameterized function perform the Calculations passing the run time values
+2.1.WAP for function using return
+today 12 hw
+1.wap for arithematical calculation using call by value and call by reference
+best practices naming convention related to task 
+array faster execution contigious index unique
+loop coolection , bulk
+array-structure -union-class -object
+practice question H.W
+1.wap integer,string type of array and insert the value by the user perform some following operation
+searching ex name in string 
+sort method desc int 
+matrix multiplication
+
+note- using system (Headers-files-methods)
+If variable data type is object then it become object if int then variable
+single class contain multiple encapsulation
+loop with F fail
+Wap for multilevel class inheritance  Employee Management 1 class genral Universal Alliance 2. Medical >100000
+3.30 leave paid leave service year >5 private

@@ -1,0 +1,14 @@
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\obj\Debug\net10.0\Class-Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\obj\Debug\net10.0\Class-Work.AssemblyInfoInputs.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\obj\Debug\net10.0\Class-Work.AssemblyInfo.cs
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\obj\Debug\net10.0\Class-Work.csproj.CoreCompileInputs.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\bin\Debug\net10.0\Class-Work.exe
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\bin\Debug\net10.0\Class-Work.deps.json
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\bin\Debug\net10.0\Class-Work.runtimeconfig.json
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\bin\Debug\net10.0\Class-Work.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\bin\Debug\net10.0\Class-Work.pdb
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\obj\Debug\net10.0\Class-Work.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\obj\Debug\net10.0\refint\Class-Work.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\obj\Debug\net10.0\Class-Work.pdb
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\obj\Debug\net10.0\Class-Work.genruntimeconfig.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Class-Work\Class-Work\obj\Debug\net10.0\ref\Class-Work.dll

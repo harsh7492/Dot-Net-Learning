@@ -1,0 +1,14 @@
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\Operator Cal.exe
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\Operator Cal.deps.json
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\Operator Cal.runtimeconfig.json
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\Operator Cal.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\Operator Cal.pdb
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\Operator Cal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\Operator Cal.AssemblyInfoInputs.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\Operator Cal.AssemblyInfo.cs
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\Operator Cal.csproj.CoreCompileInputs.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\Operator Cal.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\refint\Operator Cal.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\Operator Cal.pdb
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\Operator Cal.genruntimeconfig.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ref\Operator Cal.dll

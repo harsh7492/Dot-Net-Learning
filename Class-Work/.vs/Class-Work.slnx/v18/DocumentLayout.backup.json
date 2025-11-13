@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Class-Work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0962595E-3D5C-F7A8-B11A-23226EF6DD4F}|Class-Work\\Class-Work.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\class-work\\class-work\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0962595E-3D5C-F7A8-B11A-23226EF6DD4F}|Class-Work\\Class-Work.csproj|solutionrelative:class-work\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0962595E-3D5C-F7A8-B11A-23226EF6DD4F}|Class-Work\\Class-Work.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\class-work\\class-work\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0962595E-3D5C-F7A8-B11A-23226EF6DD4F}|Class-Work\\Class-Work.csproj|solutionrelative:class-work\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0962595E-3D5C-F7A8-B11A-23226EF6DD4F}|Class-Work\\Class-Work.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\class-work\\class-work\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0962595E-3D5C-F7A8-B11A-23226EF6DD4F}|Class-Work\\Class-Work.csproj|solutionrelative:class-work\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cal.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Class-Work\\Class-Work\\Cal.cs",
+              "RelativeDocumentMoniker": "Class-Work\\Cal.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Class-Work\\Class-Work\\Cal.cs*",
+              "RelativeToolTip": "Class-Work\\Cal.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:15:00.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Class-Work\\Class-Work\\Array.cs",
+              "RelativeDocumentMoniker": "Class-Work\\Array.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Class-Work\\Class-Work\\Array.cs",
+              "RelativeToolTip": "Class-Work\\Array.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:29:57.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Call.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Class-Work\\Class-Work\\Call.cs",
+              "RelativeDocumentMoniker": "Class-Work\\Call.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Class-Work\\Class-Work\\Call.cs",
+              "RelativeToolTip": "Class-Work\\Call.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:03:54.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

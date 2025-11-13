@@ -1,0 +1,14 @@
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.AssemblyInfo.cs
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\bin\Debug\net10.0\HomeWork.exe
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\bin\Debug\net10.0\HomeWork.deps.json
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\bin\Debug\net10.0\HomeWork.runtimeconfig.json
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\bin\Debug\net10.0\HomeWork.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\bin\Debug\net10.0\HomeWork.pdb
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\obj\Debug\net10.0\refint\HomeWork.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.pdb
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\obj\Debug\net10.0\HomeWork.genruntimeconfig.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\HomeWork\HomeWork\obj\Debug\net10.0\ref\HomeWork.dll
