@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>
+   Page 1
+</h1>
+<form action="/" method="post">
+    <label for="Message">Message</label>
+    <input type="text" name="t1" value="" id="Message" />
+    <input type="Submit" name="name" value="Submit" />
+</form>
+<a asp-controller="Harsh" asp-action="page2">Page2</a>
+<div id="Div">hi Harsh </div>
+<div id="hell"></div>
+
+
+<script>
+    let m;
+
+m=document.querySelector("form");
+    m.addEventListener("submit",()=>{
+        event.preventDefault();
+    const name=document.querySelector("#Message").value;
+        document.querySelector("#Div").innerText=name;
+})
+</script>

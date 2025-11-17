@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@* <style>
+    body{
+        background-color:black;
+    }
+</style> *@
+@model WebApplication1.Models.LoginModel.Login
+
+<h1>Welcome</h1>
+<ul id="nav">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Contact</a></li>
+    <li><a href="#">Services</a></li>
+</ul>
+<table>
+    <form action="/" method="post">
+        <h1>User Detail</h1>
+    <tr>
+        <td>
+            <label id="user">User Name</label>
+        </td>
+        <td>
+            <input type="text" name="name" value="" id="user" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label id="pass">Password</label>
+        </td>
+        <td>
+            <input type="password" name="name" value="" id="pass" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <input type="submit" name="name" value="Login" />
+        </td>
+    </tr>
+    </form>
+</table>

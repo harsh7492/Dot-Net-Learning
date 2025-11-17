@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\DB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2664E16B-B5CC-49BE-818E-07FF02CD2C2A}|DB\\DB.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\db\\db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2664E16B-B5CC-49BE-818E-07FF02CD2C2A}|DB\\DB.csproj|solutionrelative:db\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1193877-05CA-EE41-D8E4-EF46CB59A360}|DB\\DB.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\db\\db\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1193877-05CA-EE41-D8E4-EF46CB59A360}|DB\\DB.csproj|solutionrelative:db\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1193877-05CA-EE41-D8E4-EF46CB59A360}|DB\\DB.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\db\\db\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1193877-05CA-EE41-D8E4-EF46CB59A360}|DB\\DB.csproj|solutionrelative:db\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1193877-05CA-EE41-D8E4-EF46CB59A360}|DB\\DB.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\db\\db\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1193877-05CA-EE41-D8E4-EF46CB59A360}|DB\\DB.csproj|solutionrelative:db\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\DB\\DB\\Program.cs",
-              "RelativeDocumentMoniker": "DB\\Program.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\DB\\DB\\Program.cs",
-              "RelativeToolTip": "DB\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\DB\\DB\\Query.cs",
+              "RelativeDocumentMoniker": "DB\\Query.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\DB\\DB\\Query.cs",
+              "RelativeToolTip": "DB\\Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T09:56:22.487Z",
+              "WhenOpened": "2025-11-13T10:28:55.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\DB\\DB\\Model\\Model.cs",
+              "RelativeDocumentMoniker": "DB\\Model\\Model.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\DB\\DB\\Model\\Model.cs",
+              "RelativeToolTip": "DB\\Model\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:14:12.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\DB\\DB\\Data\\Data.cs",
+              "RelativeDocumentMoniker": "DB\\Data\\Data.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\DB\\DB\\Data\\Data.cs",
+              "RelativeToolTip": "DB\\Data\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:13:57.553Z",
               "EditorCaption": ""
             }
           ]

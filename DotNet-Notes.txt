@@ -58,3 +58,22 @@ update
 Click Browser
 Se Entity framework core
 then .mysqlsql
+14 today
+every program has framework to connect with web
+to add page predefine method controller clas
+Css is property of html tag
+@model project-name .Models.login class
+model view controller
+
+Question Html student info page after ubmit show data in table form
+Quetion
+today 16
+first create view folder add two pages
+and add class in controller and in controller add methods for pages Conroller for CSharp
+by default get method used to view
+change in program name to new folder and also index and change shared layout  asp contoller=folder asp action=page1 
+            TempData["message"] = "hello"; Standard wAY SINGLE 
+predefined obhject
+            ViewBag.msg = TempData["message"];
+question-Personal information form add form in the table add
+add js external through link

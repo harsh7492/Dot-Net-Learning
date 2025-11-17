@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<link href="~/css/index.css" rel="stylesheet" />
+<h1>Nav Bar</h1>
+<ul>
+    <li><a asp-action="Index">Home</a></li>
+    <li><a <a asp-action="Info">Info</a></li>
+    <li><a <a asp-action="About">About</a></li>
+    <li><a <a asp-action="Contact">Contact</a></li>
+</ul>
+<h1>Welcome to Home Page</h1>
+<br />
+<a asp-action="Contact" class="btn btn-primary">go to contact</a>
+<br />
+<br />
+<button onclick="Add()" class="py=2 btn btn-success">Add</button>
+<script src="~/js/index.js"></script>

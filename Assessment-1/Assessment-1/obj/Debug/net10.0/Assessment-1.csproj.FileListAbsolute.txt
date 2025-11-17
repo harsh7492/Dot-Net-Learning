@@ -1,0 +1,15 @@
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\bin\Debug\net10.0\Assessment-1.exe
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\bin\Debug\net10.0\Assessment-1.deps.json
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\bin\Debug\net10.0\Assessment-1.runtimeconfig.json
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\bin\Debug\net10.0\Assessment-1.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\bin\Debug\net10.0\Assessment-1.pdb
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\obj\Debug\net10.0\Assessment-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\obj\Debug\net10.0\Assessment-1.AssemblyInfoInputs.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\obj\Debug\net10.0\Assessment-1.AssemblyInfo.cs
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\obj\Debug\net10.0\Assessment-1.csproj.CoreCompileInputs.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\obj\Debug\net10.0\Assessment-1.sourcelink.json
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\obj\Debug\net10.0\Assessment-1.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\obj\Debug\net10.0\refint\Assessment-1.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\obj\Debug\net10.0\Assessment-1.pdb
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\obj\Debug\net10.0\Assessment-1.genruntimeconfig.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Assessment-1\Assessment-1\obj\Debug\net10.0\ref\Assessment-1.dll
