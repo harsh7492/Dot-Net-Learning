@@ -1,24 +1,100 @@
 ﻿@model Axiom_Project.Models.User
 
-<h2>Register</h2>
+<style>
+    .register-container {
+        min-height: 70vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(135deg, #eef2ff, #f8fafc);
+        padding: 2rem 0;
+    }
 
-<form asp-action="Register" method="post" class="col-md-4">
+    .register-card {
+        border-radius: 18px;
+        box-shadow: 0 20px 40px rgba(0,0,0,0.08);
+        border: 1px solid #e5e7eb;
+        background: #ffffffc9;
+        backdrop-filter: blur(6px);
+        transition: transform .3s ease, box-shadow .3s ease;
+    }
 
-    <div class="form-group">
-        <label asp-for="name"></label>
-        <input asp-for="name" class="form-control" />
+        .register-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 28px 55px rgba(0,0,0,0.12);
+        }
+
+    h2 {
+        font-weight: 700;
+        background: linear-gradient(90deg, #1e3a8a, #3b82f6);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .form-label {
+        font-weight: 600;
+        color: #374151;
+    }
+
+    .form-control {
+        border-radius: 10px;
+        padding: 10px 14px;
+        border: 1px solid #d1d5db;
+        transition: all .25s ease;
+        font-size: .95rem;
+    }
+
+        .form-control:focus {
+            border-color: #2563eb;
+            box-shadow: 0 0 0 4px rgba(37, 99, 235, .15);
+        }
+
+    button {
+        border-radius: 10px !important;
+        font-weight: 600 !important;
+        padding: 10px;
+        transition: .25s ease;
+        letter-spacing: .5px;
+    }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(16, 185, 129, 0.25);
+        }
+
+    .validation-small {
+        font-size: .80rem;
+        margin-top: 2px;
+    }
+</style>
+
+<div class="container register-container">
+    <div class="card register-card w-100" style="max-width:480px;">
+        <div class="card-body p-4">
+            <h2 class="h4 mb-4 text-center">Create Your Account</h2>
+
+            <form asp-action="Register" method="post" class="mx-auto">
+
+                <div class="mb-3">
+                    <label asp-for="name" class="form-label"></label>
+                    <input asp-for="name" class="form-control" placeholder="Enter your full name" />
+                    <span asp-validation-for="name" class="text-danger validation-small"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="email" class="form-label"></label>
+                    <input asp-for="email" class="form-control" placeholder="you@example.com" />
+                    <span asp-validation-for="email" class="text-danger validation-small"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="password" class="form-label"></label>
+                    <input asp-for="password" type="password" class="form-control" placeholder="Choose a secure password" />
+                    <span asp-validation-for="password" class="text-danger validation-small"></span>
+                </div>
+
+                <button type="submit" class="btn btn-success w-100 mt-2">Register</button>
+            </form>
+        </div>
     </div>
-
-    <div class="form-group">
-        <label asp-for="email"></label>
-        <input asp-for="email" class="form-control" />
-    </div>
-
-    <div class="form-group">
-        <label asp-for="password"></label>
-        <input asp-for="password" type="password" class="form-control" />
-    </div>
-
-    <button class="btn btn-success mt-2">Register</button>
-
-</form>
+</div>
