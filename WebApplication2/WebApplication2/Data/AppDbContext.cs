@@ -11,6 +11,7 @@ namespace WebApplication2.Data
         }
 
         // This creates a table called Employees
-        public DbSet<Employee> Employees { get; set; }
+        public DbSet<People> Employees { get; set; }
+        public DbSet<Student> Students { get; set; }
     }
 }

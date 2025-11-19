@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<!-- FIX: Changed target framework from net10.0 to net8.0 (the latest stable LTS version). -->
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<RootNamespace>Axiom_Project</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- Core EF Package for DbContext, DbSet, etc. -->
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.22" />
+
+		<!-- SQL Server Provider -->
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.22" />
+
+		<!-- EF Core Tooling for 'dotnet ef migrations' -->
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.22">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+
+		<!-- CRITICAL: Microsoft.EntityFrameworkCore.Design is sometimes needed explicitly by the tooling -->
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.22">
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+			<PrivateAssets>all</PrivateAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+
+	</ItemGroup>
+
+</Project>

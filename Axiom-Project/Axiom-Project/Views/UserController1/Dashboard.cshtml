@@ -1,0 +1,24 @@
+﻿@model Axiom_Project.Models.User
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h1>Welcome, @Model.name 👋</h1>
+
+<div>
+    <h4>User Details</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Name</dt>
+        <dd class="col-sm-10">@Model.name</dd>
+
+        <dt class="col-sm-2">Email</dt>
+        <dd class="col-sm-10">@Model.email</dd>
+
+        <dt class="col-sm-2">Password</dt>
+        <dd class="col-sm-10">@Model.password</dd>
+    </dl>
+</div>
+
+<a asp-action="Logout" class="btn btn-danger">Logout</a>

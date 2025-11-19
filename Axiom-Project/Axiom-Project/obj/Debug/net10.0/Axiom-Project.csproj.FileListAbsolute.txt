@@ -1,0 +1,9 @@
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Axiom-Project\Axiom-Project\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Axiom-Project\Axiom-Project\obj\Debug\net10.0\Axiom-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Axiom-Project\Axiom-Project\obj\Debug\net10.0\Axiom-Project.AssemblyInfoInputs.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Axiom-Project\Axiom-Project\obj\Debug\net10.0\Axiom-Project.AssemblyInfo.cs
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Axiom-Project\Axiom-Project\obj\Debug\net10.0\Axiom-Project.csproj.CoreCompileInputs.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Axiom-Project\Axiom-Project\obj\Debug\net10.0\Axiom-Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Axiom-Project\Axiom-Project\obj\Debug\net10.0\Axiom-Project.RazorAssemblyInfo.cache
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Axiom-Project\Axiom-Project\obj\Debug\net10.0\Axiom-Project.RazorAssemblyInfo.cs
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\Axiom-Project\Axiom-Project\obj\Debug\net10.0\Axiom-Project.sourcelink.json

@@ -77,3 +77,6 @@ predefined obhject
             ViewBag.msg = TempData["message"];
 question-Personal information form add form in the table add
 add js external through link
+today 18
+ctor -constructor shortcut
+_context used to add query

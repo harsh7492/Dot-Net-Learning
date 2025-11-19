@@ -21,20 +21,16 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-// Needed for serving CSS, JS, images
+// For serving CSS, JS, Images
 app.UseStaticFiles();
 
 app.UseRouting();
 
 app.UseAuthorization();
 
-// Static assets mapping (.NET 8 style)
-app.MapStaticAssets();
-
-// Default route now points to Harsh/page1
+// MVC Routing
 app.MapControllerRoute(
-        name: "default",
-        pattern: "{controller=Harsh}/{action=page1}/{id?}")
-    .WithStaticAssets();
+    name: "default",
+    pattern: "{controller=CRUD}/{action=Index}/{id?}");
 
 app.Run();

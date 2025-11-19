@@ -1,0 +1,13 @@
+﻿body {
+    background-image: url(https://www.bsquare.in/blog/wp-content/uploads/2023/07/erp-software-development.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-transform: uppercase;
+    /*   text-decoration:underline;*/
+}
