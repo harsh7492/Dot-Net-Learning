@@ -1,0 +1,163 @@
+﻿=
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewData["Title"] - CRM System</title>
+
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <style>
+        body {
+            background-color: #f4f6f9;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            height: 100vh;
+            width: 260px;
+            background-color: #1f2937; /* Dark background */
+            position: fixed;
+            padding-top: 20px;
+            color: white;
+            z-index: 1000; /* Ensure it stays on top */
+        }
+
+            .sidebar h3 {
+                padding-left: 20px;
+                margin-bottom: 30px;
+                font-weight: bold;
+            }
+
+            .sidebar a {
+                padding: 12px 20px;
+                display: flex; /* Use flex for icon/text alignment */
+                align-items: center;
+                color: white;
+                text-decoration: none;
+                font-size: 16px;
+                border-radius: 8px;
+                margin: 5px 10px;
+                transition: background-color 0.2s; /* Smooth transition */
+            }
+
+                .sidebar a:hover {
+                    background-color: #374151; /* Slightly lighter hover */
+                }
+
+        /* Content */
+        .main-content {
+            margin-left: 260px;
+            padding: 20px;
+        }
+
+        /* The key active class */
+        .active-menu {
+            background-color: #2563eb !important; /* Blue active link */
+            font-weight: bold;
+        }
+
+        .sidebar i {
+            margin-right: 10px; /* Space between icon and text */
+            font-size: 1.1rem;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="sidebar">
+        <h3>🚀 CRM System</h3>
+
+        <a asp-controller="Home" asp-action="Index">
+            <i class="bi bi-house-door"></i> Home
+        </a>
+        <a asp-controller="Customers" asp-action="Index">
+            <i class="bi bi-person-circle"></i> Customers
+        </a>
+        <a asp-controller="Employees" asp-action="Index">
+            <i class="bi bi-briefcase"></i> Employees
+        </a>
+
+        <hr style="border-top: 1px solid #374151; margin: 15px 10px;">
+
+        <a asp-controller="Report" asp-action="Generate">
+            <i class="bi bi-file-earmark-bar-graph"></i> Reports
+        </a>
+        <a asp-controller="Report" asp-action="Generate">
+            <i class="bi bi-speedometer"></i> Dashboard
+        </a>
+
+        <hr style="border-top: 1px solid #374151; margin: 15px 10px;">
+
+        <a asp-controller="Home" asp-action="Privacy">
+            <i class="bi bi-gear"></i> Settings
+        </a>
+
+        <form asp-controller="Account" asp-action="Logout" method="post" class="d-inline">
+            <button type="submit" class="btn btn-link text-white text-decoration-none w-100" style="text-align: left; padding: 12px 20px;">
+                <i class="bi bi-box-arrow-right"></i> Logout
+            </button>
+        </form>
+
+    </div>
+
+    <div class="main-content">
+        @RenderBody()
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Get the current URL path and convert it to lowercase for case-insensitive matching
+            let currentPath = window.location.pathname.toLowerCase();
+
+            // Clean up the current path:
+            // - Remove trailing slash (unless it's the root itself)
+            // - Ensure the path starts with a slash
+            if (currentPath.length > 1 && currentPath.endsWith('/')) {
+                currentPath = currentPath.slice(0, -1);
+            }
+            if (!currentPath.startsWith('/')) {
+                currentPath = '/' + currentPath;
+            }
+
+            // Select all links in the sidebar
+            const sidebarLinks = document.querySelectorAll('.sidebar a');
+
+            sidebarLinks.forEach(link => {
+                // Remove existing active class to prevent issues if it was set statically
+                link.classList.remove('active-menu');
+
+                // Get the link's destination path, using a temporary URL object to parse the href safely
+                let linkHref = new URL(link.href, window.location.origin).pathname.toLowerCase();
+
+                // Clean up the link's path, similar to the current path
+                if (linkHref.length > 1 && linkHref.endsWith('/')) {
+                    linkHref = linkHref.slice(0, -1);
+                }
+
+                // 1. Exact Match: Check if the current page path is exactly the link's path (e.g., /customers/index)
+                if (currentPath === linkHref) {
+                    link.classList.add('active-menu');
+                    return; // Stop checking for this link
+                }
+
+                // 2. Special Home Page Match:
+                // ASP.NET Core MVC often maps /Controller/Index to just /Controller (e.g., /home/index maps to /)
+                // If the link is '/home/index' and the current path is just '/'
+                if (linkHref === '/home/index' && (currentPath === '/' || currentPath === '/index')) {
+                    link.classList.add('active-menu');
+                    return;
+                }
+            });
+        });
+    </script>
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>

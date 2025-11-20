@@ -1,0 +1,152 @@
+﻿@{
+    ViewData["Title"] = "Register";
+    Layout = null; // Remove standard layout/sidebar
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CRM Register</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
+
+    <style>
+        body {
+            height: 100vh;
+            margin: 0;
+            background: #101010; /* Base dark background */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+            /* 🖼️ BACKGROUND IMAGE LAYER (New Addition) */
+            body::before {
+                content: '';
+                position: fixed; /* Use fixed for full viewport coverage */
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background-image: url('https://cdn.ourcrowd.com/wp-content/uploads/2022/06/Customer-Relations-Management-Software.jpg');
+                background-size: cover; /* Cover the entire area */
+                background-position: center;
+                background-repeat: no-repeat;
+                filter: brightness(0.7) blur(1.5px); /* Darken and slightly blur the image for contrast */
+                z-index: -10; /* Ensure it is the furthest back layer */
+            }
+
+        .auth-card {
+            width: 400px;
+            padding: 40px;
+            background: rgba(255, 255, 255, 0.2); /* Glass effect background */
+            border: 1px solid rgba(255, 255, 255, 0.35);
+            backdrop-filter: blur(15px);
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            color: white; /* Text color inside card */
+            z-index: 1; /* Ensure card is above background layers */
+        }
+
+            .auth-card h3 {
+                color: white;
+                font-weight: 700;
+            }
+
+        .form-control {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.4);
+            color: white;
+            transition: all 0.3s ease;
+        }
+
+            .form-control:focus {
+                background: rgba(255, 255, 255, 0.2);
+                box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.3);
+                border-color: white;
+                color: white;
+            }
+
+            .form-control::placeholder {
+                color: rgba(255, 255, 255, 0.7);
+            }
+
+        .alert-danger {
+            background-color: rgba(220, 53, 69, 0.8);
+            border-color: #dc3545;
+            color: white;
+        }
+
+        .btn-success {
+            background-color: #ffc107; /* Accent color for button */
+            border-color: #ffc107;
+            color: #1e3a8a;
+            font-weight: 600;
+            transition: 0.3s ease;
+        }
+
+            .btn-success:hover {
+                background-color: #e0a800;
+                border-color: #e0a800;
+            }
+
+        a {
+            color: #ffc107; /* Highlight links */
+            text-decoration: none;
+        }
+
+            a:hover {
+                color: #e0a800;
+                text-decoration: underline;
+            }
+
+        label {
+            color: rgba(255, 255, 255, 0.8);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="auth-card">
+        <h3 class="text-center mb-4">Create Account 📝</h3>
+
+        @* Error Display *@
+        @if (ViewBag.Error != null)
+        {
+            <div class="alert alert-danger" role="alert">
+                @ViewBag.Error
+            </div>
+        }
+
+        <form method="post">
+            <div class="mb-3">
+                <label for="nameInput">Username</label>
+                <input type="text" id="nameInput" name="name" class="form-control" placeholder="John Doe" required />
+            </div>
+
+            <div class="mb-3">
+                <label for="emailInput">Email</label>
+                <input type="email" id="emailInput" name="email" class="form-control" placeholder="user@example.com" required />
+            </div>
+
+            <div class="mb-3">
+                <label for="passwordInput">Password</label>
+                <input type="password" id="passwordInput" name="password" class="form-control" placeholder="••••••••" required />
+            </div>
+
+            <div class="mb-4">
+                <label for="confirmInput">Confirm Password</label>
+                <input type="password" id="confirmInput" name="confirm" class="form-control" placeholder="••••••••" required />
+            </div>
+
+            <button type="submit" class="btn btn-success w-100">Register</button>
+
+            <p class="text-center mt-4 mb-0">
+                Already have an account? <a href="/Account/Login">Login</a>
+            </p>
+        </form>
+    </div>
+</body>
+</html>

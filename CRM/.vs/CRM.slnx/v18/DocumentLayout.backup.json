@@ -1,0 +1,454 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\migrations\\20251120201927_updatereporttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\migrations\\20251120201927_updatereporttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/CRM/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/CRM/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\migrations\\20251120213920_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\migrations\\20251120213920_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\migrations\\20251120202940_addcreateddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\migrations\\20251120202940_addcreateddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\migrations\\20251120201746_wtw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\migrations\\20251120201746_wtw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\crm\\crm\\migrations\\20251120200808_jkl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26B784C5-FF2A-F768-B7AD-421BDE2A5118}|CRM\\CRM.csproj|solutionrelative:crm\\migrations\\20251120200808_jkl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "CRM\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "CRM\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:23:32.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRM\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T20:49:15.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CRM\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CRM\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwDwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T22:04:00.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Home\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "CRM\\Views\\Home\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Home\\Welcome.cshtml",
+              "RelativeToolTip": "CRM\\Views\\Home\\Welcome.cshtml",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAUwMAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T21:01:49.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CRM\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CRM\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwI0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T21:10:56.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CRM\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "CRM\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAUwJcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T21:11:29.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRM\\Views\\Report\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "CRM\\Views\\Report\\Index.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAUwJQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T20:34:14.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRM\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRM\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAUwKIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T20:38:03.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRM\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "CRM\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T21:12:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRM\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "CRM\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-20T21:12:09.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRM\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRM\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:59:48.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Program.cs",
+              "RelativeDocumentMoniker": "CRM\\Program.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Program.cs",
+              "RelativeToolTip": "CRM\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T19:07:48.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CRM\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CRM\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAADwv2EAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:04:29.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20251120213920_AddUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Migrations\\20251120213920_AddUserTable.cs",
+              "RelativeDocumentMoniker": "CRM\\Migrations\\20251120213920_AddUserTable.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Migrations\\20251120213920_AddUserTable.cs",
+              "RelativeToolTip": "CRM\\Migrations\\20251120213920_AddUserTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:39:20.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Models\\User.cs",
+              "RelativeToolTip": "CRM\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:36:25.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CRM\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CRM\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T19:05:32.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20251120202940_AddCreatedDate.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Migrations\\20251120202940_AddCreatedDate.cs",
+              "RelativeDocumentMoniker": "CRM\\Migrations\\20251120202940_AddCreatedDate.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Migrations\\20251120202940_AddCreatedDate.cs",
+              "RelativeToolTip": "CRM\\Migrations\\20251120202940_AddCreatedDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:29:41.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251120201927_UpdateReportTable.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Migrations\\20251120201927_UpdateReportTable.cs",
+              "RelativeDocumentMoniker": "CRM\\Migrations\\20251120201927_UpdateReportTable.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Migrations\\20251120201927_UpdateReportTable.cs",
+              "RelativeToolTip": "CRM\\Migrations\\20251120201927_UpdateReportTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:19:27.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20251120201746_wtw.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Migrations\\20251120201746_wtw.cs",
+              "RelativeDocumentMoniker": "CRM\\Migrations\\20251120201746_wtw.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Migrations\\20251120201746_wtw.cs",
+              "RelativeToolTip": "CRM\\Migrations\\20251120201746_wtw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:17:46.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Models\\Customer.cs",
+              "RelativeToolTip": "CRM\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:47:38.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Models\\Employee.cs",
+              "RelativeToolTip": "CRM\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:45:15.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CRM\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CRM\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:03:58.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20251120200808_jkl.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Migrations\\20251120200808_jkl.cs",
+              "RelativeDocumentMoniker": "CRM\\Migrations\\20251120200808_jkl.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Migrations\\20251120200808_jkl.cs",
+              "RelativeToolTip": "CRM\\Migrations\\20251120200808_jkl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:08:09.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Models\\Report.cs",
+              "RelativeToolTip": "CRM\\Models\\Report.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:49:40.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CRM\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "CRM\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:02:57.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Employees.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/CRM/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/CRM/True/SqlTable/dbo.Employees.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-20T19:39:01.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.Customers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/CRM/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/CRM/True/SqlTable/dbo.Customers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-20T19:38:55.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

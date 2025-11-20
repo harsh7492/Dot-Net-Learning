@@ -1,0 +1,62 @@
+After Project creation
+
+step 1
+
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+
+Step 2
+
+ Create a Model
+
+Step 3
+
+Create a DbContext
+
+In Data folder
+
+create AppDbContext.cs:
+
+create constructor
+
+ public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        {
+        }
+
+        public DbSet<Employee> Employees { get; set; }
+
+Step 4
+
+Configure SQL Server Connection
+
+In appsettings.json, add connection string:
+
+"ConnectionStrings": {
+  "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=MyMvcDb;Trusted_Connection=True;MultipleActiveResultSets=true"
+}
+
+Replace YOUR_SERVER_NAME with your SQL Server instance (like localhost\\SQLEXPRESS).
+
+Step 5:
+
+ Register DbContext
+
+In Program.cs
+
+// Add services to the container.
+builder.Services.AddControllersWithViews();
+
+// Add DbContext
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
+Step 6: Create the Database
+Open Package Manager Console or terminal and run:
+
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+
+after this command create database and table
+add-migration chal
+update-database

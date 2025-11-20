@@ -1,0 +1,149 @@
+﻿@* For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using System.Globalization;
+@model CRM.Models.Report
+@{
+    ViewData["Title"] = "CRM Dashboard";
+}
+
+<div class="container-fluid py-4">
+
+    <h2 class="fw-light mb-4 text-secondary">Dashboard Overview</h2>
+
+    <div class="row g-4 mb-5">
+
+        <div class="col-md-3">
+            <div class="card shadow-sm border-start border-primary border-5 h-100">
+                <div class="card-body p-4">
+                    <div class="row align-items-center">
+                        <div class="col-8">
+                            <p class="text-primary fw-bold text-uppercase mb-1">Total Customers</p>
+                            <h3 class="fw-bold mb-0">@Model.TotalCustomers</h3>
+                        </div>
+                        <div class="col-4 text-end">
+                            <i class="bi bi-people-fill text-primary" style="font-size: 2.5rem;"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card shadow-sm border-start border-success border-5 h-100">
+                <div class="card-body p-4">
+                    <div class="row align-items-center">
+                        <div class="col-8">
+                            <p class="text-success fw-bold text-uppercase mb-1">Total Employees</p>
+                            <h3 class="fw-bold mb-0">@Model.TotalEmployees</h3>
+                        </div>
+                        <div class="col-4 text-end">
+                            <i class="bi bi-briefcase-fill text-success" style="font-size: 2.5rem;"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card shadow-sm border-start border-warning border-5 h-100">
+                <div class="card-body p-4">
+                    <div class="row align-items-center">
+                        <div class="col-8">
+                            <p class="text-warning fw-bold text-uppercase mb-1">New Today (Customers)</p>
+                            <h3 class="fw-bold mb-0">@Model.TodayNewCustomers</h3>
+                        </div>
+                        <div class="col-4 text-end">
+                            <i class="bi bi-person-plus-fill text-warning" style="font-size: 2.5rem;"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="card shadow-sm border-start border-info border-5 h-100">
+                <div class="card-body p-4">
+                    <div class="row align-items-center">
+                        <div class="col-8">
+                            <p class="text-info fw-bold text-uppercase mb-1">New Today (Employees)</p>
+                            <h3 class="fw-bold mb-0">@Model.TodayNewEmployees</h3>
+                        </div>
+                        <div class="col-4 text-end">
+                            <i class="bi bi-person-badge-fill text-info" style="font-size: 2.5rem;"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row g-4">
+        <div class="col-lg-6">
+            <div class="card shadow-sm h-100">
+                <div class="card-header bg-light border-bottom">
+                    <h5 class="mb-0 text-primary">
+                        <i class="bi bi-person-lines-fill me-2"></i> Recent Customers
+                    </h5>
+                </div>
+                <div class="card-body p-0">
+                    <div class="table-responsive">
+                        <table class="table table-hover table-striped mb-0">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Email</th>
+                                    <th>Phone</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var c in Model.RecentCustomers)
+                                {
+                                    <tr>
+                                        <td>@c.name</td>
+                                        <td>@c.email</td>
+                                        <td>@c.phoneNumber</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-6">
+            <div class="card shadow-sm h-100">
+                <div class="card-header bg-light border-bottom">
+                    <h5 class="mb-0 text-secondary">
+                        <i class="bi bi-clipboard-data-fill me-2"></i> Recent Employees
+                    </h5>
+                </div>
+                <div class="card-body p-0">
+                    <div class="table-responsive">
+                        <table class="table table-hover table-striped mb-0">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Name</th>
+                                    <th>Email</th>
+                                    <th>Phone</th>
+                                    <th>Position</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var e in Model.RecentEmployees)
+                                {
+                                    <tr>
+                                        <td>@e.name</td>
+                                        <td>@e.email</td>
+                                        <td>@e.phoneNumber</td>
+                                        <td>@e.position</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

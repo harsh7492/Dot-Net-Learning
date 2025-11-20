@@ -1,0 +1,108 @@
+﻿@model IEnumerable<CRM.Models.Customer>
+
+@{
+    ViewData["Title"] = "Customers";
+}
+
+<div class="container mt-5">
+
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="fw-bolder text-primary">👥 Customer Management</h2>
+        <a asp-action="Create" class="btn btn-success btn-lg shadow-sm">
+            <i class="bi bi-plus-circle-fill me-2"></i> Add New Customer
+        </a>
+    </div>
+
+    <div class="input-group mb-4 shadow-sm rounded-pill border">
+        <span class="input-group-text bg-white border-0 ps-4">
+            <i class="bi bi-search"></i>
+        </span>
+        <input type="text" class="form-control border-0 py-2" placeholder="Search customers by name, email, or phone...">
+        <button class="btn btn-outline-secondary border-0 pe-4" type="button" disabled>Filter</button>
+    </div>
+
+    <div class="card shadow-lg border-0">
+        <div class="card-header bg-light border-bottom border-secondary text-secondary fw-semibold">
+            Recent Customer Data
+        </div>
+        <div class="card-body p-0">
+            @if (!Model.Any())
+            {
+                <div class="text-center p-5">
+                    <p class="lead text-muted">No customers found.</p>
+                    <a asp-action="Create" class="btn btn-outline-success mt-3">Start by adding your first customer!</a>
+                </div>
+            }
+            else
+            {
+                <div class="table-responsive">
+                    <table class="table table-striped table-hover align-middle mb-0">
+                        <thead class="table-primary">
+                            <tr>
+                                <th>Name</th>
+                                <th>Email</th>
+                                <th>Phone</th>
+                                <th class="text-center" style="width: 200px;">Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td class="fw-semibold">@item.name</td>
+                                    <td class="text-muted">@item.email</td>
+                                    <td>@item.phoneNumber</td>
+
+                                    <td class="text-center">
+                                        <a asp-action="Details" asp-route-id="@item.Id"
+                                           class="btn btn-sm btn-info text-white me-1" data-bs-toggle="tooltip" title="View Details">
+                                            <i class="bi bi-eye"></i>
+                                        </a>
+                                        <a asp-action="Edit" asp-route-id="@item.Id"
+                                           class="btn btn-sm btn-warning me-1" data-bs-toggle="tooltip" title="Edit Customer">
+                                            <i class="bi bi-pencil"></i>
+                                        </a>
+                                        <a asp-action="Delete" asp-route-id="@item.Id"
+                                           class="btn btn-sm btn-danger" data-bs-toggle="tooltip" title="Delete Customer">
+                                            <i class="bi bi-trash"></i>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+        </div>
+    </div>
+
+    <div class="d-flex justify-content-end mt-3">
+        <small class="text-muted">Total Customers: **@Model.Count()**</small>
+    </div>
+
+</div>
+
+<style>
+    .text-primary {
+        color: #0d6efd !important;
+    }
+    /* Bootstrap Primary Color */
+    .table-primary th {
+        background-color: #e3f2fd; /* Lightest blue for header */
+        color: #0d6efd;
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: #f0f8ff; /* Lighter hover effect */
+        box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    }
+</style>
+
+@section Scripts {
+    <script>
+        var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+        var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+            return new bootstrap.Tooltip(tooltipTriggerEl)
+        })
+    </script>
+}

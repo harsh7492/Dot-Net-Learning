@@ -1,0 +1,103 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container-fluid">
+
+    <div class="p-5 mb-5 bg-light rounded-4 shadow-sm border border-secondary border-opacity-10">
+        <div class="d-flex justify-content-between align-items-center">
+            <div>
+                <h1 class="display-5 fw-bold text-dark">Welcome👋</h1>
+                <p class="fs-4 text-muted">Your command center for customer success.</p>
+            </div>
+            <div>
+                <a asp-controller="Report" asp-action="Generate" class="btn btn-primary btn-lg shadow-sm" style="min-width: 200px;">
+                    <i class="bi bi-speedometer2 me-2"></i> View Dashboard
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row g-4">
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-start border-4 border-primary rounded-4 h-100">
+                <div class="card-body p-4">
+                    <div class="d-flex align-items-center mb-3">
+                        <i class="bi bi-people-fill text-primary" style="font-size: 2rem;"></i>
+                        <h5 class="fw-bold ms-3 mb-0">Customers</h5>
+                    </div>
+                    <p class="text-muted">Manage your customer records, track interactions, and see history.</p>
+                    <a asp-controller="Customers" asp-action="Index" class="btn btn-outline-primary w-100 mt-2">
+                        Go to Customers <i class="bi bi-arrow-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-start border-4 border-success rounded-4 h-100">
+                <div class="card-body p-4">
+                    <div class="d-flex align-items-center mb-3">
+                        <i class="bi bi-briefcase-fill text-success" style="font-size: 2rem;"></i>
+                        <h5 class="fw-bold ms-3 mb-0">Employees</h5>
+                    </div>
+                    <p class="text-muted">View and manage employee details, roles, and contact information.</p>
+                    <a asp-controller="Employees" asp-action="Index" class="btn btn-outline-success w-100 mt-2">
+                        Go to Employees <i class="bi bi-arrow-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm border-start border-4 border-info rounded-4 h-100">
+                <div class="card-body p-4">
+                    <div class="d-flex align-items-center mb-3">
+                        <i class="bi bi-bar-chart-fill text-info" style="font-size: 2rem;"></i>
+                        <h5 class="fw-bold ms-3 mb-0">Reports & Analytics</h5>
+                    </div>
+                    <p class="text-muted">View key insights, performance metrics, and business reports.</p>
+                    <a asp-controller="Report" asp-action="Generate" class="btn btn-outline-info w-100 mt-2">
+                        Open Report <i class="bi bi-arrow-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="card shadow-sm border-0 rounded-4 mt-5 p-4 bg-white">
+        <h4 class="fw-bold mb-3 text-secondary">
+            <i class="bi bi-info-circle-fill me-2"></i> System Capabilities
+        </h4>
+
+        <p class="lead text-muted border-bottom pb-3">
+            This CRM platform is designed to streamline your business operations and provide real-time performance insights.
+        </p>
+
+        <div class="row">
+            <div class="col-md-6">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                        <i class="bi bi-check-circle-fill text-success me-2"></i> Comprehensive Customer Management
+                    </li>
+                    <li class="list-group-item">
+                        <i class="bi bi-check-circle-fill text-success me-2"></i> Employee Detail Tracking
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-6">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                        <i class="bi bi-check-circle-fill text-success me-2"></i> Real-Time Report Generation
+                    </li>
+                    <li class="list-group-item">
+                        <i class="bi bi-check-circle-fill text-success me-2"></i> Responsive & Intuitive Dashboard
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>
