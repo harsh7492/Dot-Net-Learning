@@ -7602,11 +7602,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\CRM.csproj",
+      "projectUniqueName": "C:\\Users\\hrai\\OneDrive\\Desktop\\Acxiom\\AXCIOM\\CRM\\CRM\\CRM.csproj",
       "projectName": "CRM",
-      "projectPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\CRM.csproj",
+      "projectPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Acxiom\\AXCIOM\\CRM\\CRM\\CRM.csproj",
       "packagesPath": "C:\\Users\\hrai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\CRM\\CRM\\obj\\",
+      "outputPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Acxiom\\AXCIOM\\CRM\\CRM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

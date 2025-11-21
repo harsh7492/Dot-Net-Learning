@@ -8,18 +8,24 @@
 
     <div class="d-flex justify-content-between align-items-center mb-4">
         <h2 class="fw-bolder text-primary">👥 Customer Management</h2>
-        <a asp-action="Create" class="btn btn-success btn-lg shadow-sm">
+        <a asp-controller="Customers" asp-action="Create" class="btn btn-success btn-lg shadow-sm">
             <i class="bi bi-plus-circle-fill me-2"></i> Add New Customer
         </a>
     </div>
 
-    <div class="input-group mb-4 shadow-sm rounded-pill border">
+    <form asp-action="Index" method="get" class="input-group mb-4 shadow-sm rounded-pill border">
         <span class="input-group-text bg-white border-0 ps-4">
             <i class="bi bi-search"></i>
         </span>
-        <input type="text" class="form-control border-0 py-2" placeholder="Search customers by name, email, or phone...">
-        <button class="btn btn-outline-secondary border-0 pe-4" type="button" disabled>Filter</button>
-    </div>
+        <input type="text"
+               name="SearchTerm"
+               value="@Context.Request.Query["SearchTerm"]"
+               class="form-control border-0 py-2"
+               placeholder="Search customers by name, email, or phone..." />
+        <button class="btn btn-outline-secondary border-0 pe-4" type="submit">
+            Filter
+        </button>
+    </form>
 
     <div class="card shadow-lg border-0">
         <div class="card-header bg-light border-bottom border-secondary text-secondary fw-semibold">
@@ -30,7 +36,9 @@
             {
                 <div class="text-center p-5">
                     <p class="lead text-muted">No customers found.</p>
-                    <a asp-action="Create" class="btn btn-outline-success mt-3">Start by adding your first customer!</a>
+                    <a asp-controller="Customers" asp-action="Create" class="btn btn-outline-success mt-3">
+                        Start by adding your first customer!
+                    </a>
                 </div>
             }
             else
@@ -77,7 +85,7 @@
     </div>
 
     <div class="d-flex justify-content-end mt-3">
-        <small class="text-muted">Total Customers: **@Model.Count()**</small>
+        <small class="text-muted">Total Customers: @Model.Count()</small>
     </div>
 
 </div>

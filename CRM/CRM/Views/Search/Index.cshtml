@@ -1,0 +1,98 @@
+﻿@*
+    NOTE: This view assumes the properties in your Customer and Employee C# model files
+    are defined in lowercase (e.g., public string name { get; set; }).
+*@
+@using CRM.Models
+@model SearchResultViewModel
+
+@{
+    ViewData["Title"] = "CRM Search";
+}
+
+<div class="container-fluid">
+    <h2 class="fw-bold mb-4">🔍 Search CRM Records</h2>
+
+    <form asp-controller="Search" asp-action="Index" method="get" class="mb-5">
+        <div class="input-group input-group-lg shadow-sm">
+            <input type="search"
+                   name="query"
+                   class="form-control"
+                   placeholder="Search by Email, Name, or Phone..."
+                   value="@Model.SearchTerm" />
+            <button class="btn btn-primary" type="submit">Search</button>
+        </div>
+        @if (!string.IsNullOrWhiteSpace(Model.SearchTerm))
+        {
+            <p class="text-muted mt-2">Showing results for: <strong>"@Model.SearchTerm"</strong></p>
+        }
+    </form>
+
+    @if (string.IsNullOrWhiteSpace(Model.SearchTerm))
+    {
+        <div class="alert alert-info">Enter a term above to start searching customers and employees.</div>
+    }
+    else if (!Model.Customers.Any() && !Model.Employees.Any())
+    {
+        <div class="alert alert-warning">No results found for "@Model.SearchTerm".</div>
+    }
+    else
+    {
+        @if (Model.Customers.Any())
+        {
+            <h4 class="mt-5 mb-3">👥 Customer Results (@Model.Customers.Count)</h4>
+            <div class="table-responsive">
+                <table class="table table-hover table-striped shadow-sm">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Name</th>
+                            <th>Email</th>
+                            <th>Phone</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var customer in Model.Customers)
+                        {
+                            <tr>
+                                @* FIXES: Changed to lowercase property access *@
+                                <td>@customer.name</td>
+                                <td>@customer.email</td>
+                                <td>@customer.phoneNumber</td> @* Assuming 'Phone' in table header uses the 'phoneNumber' property *@
+                                <td><a asp-controller="Customers" asp-action="Details" asp-route-id="@customer.Id" class="btn btn-sm btn-info text-white">View</a></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+
+        @if (Model.Employees.Any())
+        {
+            <h4 class="mt-5 mb-3">🧑‍💼 Employee Results (@Model.Employees.Count)</h4>
+            <div class="table-responsive">
+                <table class="table table-hover table-striped shadow-sm">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Name</th>
+                            <th>Email</th>
+                            <th>Department</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var employee in Model.Employees)
+                        {
+                            <tr>
+                                @* FIXES: Changed to lowercase property access *@
+                                <td>@employee.name</td>
+                                <td>@employee.email</td>
+                                <td>@employee.position</td> @* Changed from Department to department *@
+                                <td><a asp-controller="Employees" asp-action="Details" asp-route-id="@employee.Id" class="btn btn-sm btn-info text-white">View</a></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+    }
+</div>
