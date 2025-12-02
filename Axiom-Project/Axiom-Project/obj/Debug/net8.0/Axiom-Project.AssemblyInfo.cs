@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Axiom-Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80471bef19ea426008b5239670655a23bc7d844f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a79c9473912efc58c7b231c760581e2a2e46b48")]
 [assembly: System.Reflection.AssemblyProductAttribute("Axiom-Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Axiom-Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
