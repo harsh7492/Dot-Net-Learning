@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Controllers\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student-Info\\Controllers\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\student-info\\student-info\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|solutionrelative:student-info\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Models\\Info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student-Info\\Models\\Info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\student-info\\student-info\\views\\data\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|solutionrelative:student-info\\views\\data\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student-Info\\Views\\Data\\Table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\student-info\\student-info\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|solutionrelative:student-info\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student-Info\\Views\\Data\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\student-info\\student-info\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|solutionrelative:student-info\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student-Info\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\student-info\\student-info\\controllers\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|solutionrelative:student-info\\controllers\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\student-info\\student-info\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|solutionrelative:student-info\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\student-info\\student-info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F86994-F551-5261-76CE-99A686A6BC09}|Student-Info\\Student-Info.csproj|solutionrelative:student-info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,56 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Table.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Table.cshtml",
-              "RelativeDocumentMoniker": "Student-Info\\Views\\Data\\Table.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Table.cshtml",
-              "RelativeToolTip": "Student-Info\\Views\\Data\\Table.cshtml",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Student-Info\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Student-Info\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T20:22:02.052Z",
+              "WhenOpened": "2025-12-17T19:36:47.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Program.cs",
-              "RelativeDocumentMoniker": "Student-Info\\Program.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Program.cs",
-              "RelativeToolTip": "Student-Info\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T19:34:14.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Controllers\\Data.cs",
-              "RelativeDocumentMoniker": "Student-Info\\Controllers\\Data.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Controllers\\Data.cs",
-              "RelativeToolTip": "Student-Info\\Controllers\\Data.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T19:20:19.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Index.cshtml",
               "RelativeDocumentMoniker": "Student-Info\\Views\\Data\\Index.cshtml",
               "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Index.cshtml",
               "RelativeToolTip": "Student-Info\\Views\\Data\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-17T19:22:05.205Z",
               "EditorCaption": ""
@@ -87,12 +69,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Table.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Table.cshtml",
+              "RelativeDocumentMoniker": "Student-Info\\Views\\Data\\Table.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Table.cshtml",
+              "RelativeToolTip": "Student-Info\\Views\\Data\\Table.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T20:22:02.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Student-Info\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Student-Info\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T19:32:41.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Program.cs",
+              "RelativeDocumentMoniker": "Student-Info\\Program.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Program.cs",
+              "RelativeToolTip": "Student-Info\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T19:34:14.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Controllers\\Data.cs",
+              "RelativeDocumentMoniker": "Student-Info\\Controllers\\Data.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Controllers\\Data.cs",
+              "RelativeToolTip": "Student-Info\\Controllers\\Data.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T19:20:19.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Info.cs",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Models\\Info.cs",
               "RelativeDocumentMoniker": "Student-Info\\Models\\Info.cs",
               "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Models\\Info.cs",
               "RelativeToolTip": "Student-Info\\Models\\Info.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T19:17:02.9Z",
               "EditorCaption": ""

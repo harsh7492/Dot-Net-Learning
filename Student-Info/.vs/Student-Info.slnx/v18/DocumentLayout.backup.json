@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA3A5295-4BC2-409A-BC9B-F5E4057BB5B5}|Student-Info\\Student-Info.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\student-info\\student-info\\controllers\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA3A5295-4BC2-409A-BC9B-F5E4057BB5B5}|Student-Info\\Student-Info.csproj|solutionrelative:student-info\\controllers\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Controllers\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student-Info\\Controllers\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA3A5295-4BC2-409A-BC9B-F5E4057BB5B5}|Student-Info\\Student-Info.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\student-info\\student-info\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA3A5295-4BC2-409A-BC9B-F5E4057BB5B5}|Student-Info\\Student-Info.csproj|solutionrelative:student-info\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Models\\Info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student-Info\\Models\\Info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA3A5295-4BC2-409A-BC9B-F5E4057BB5B5}|Student-Info\\Student-Info.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\student-info\\student-info\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA3A5295-4BC2-409A-BC9B-F5E4057BB5B5}|Student-Info\\Student-Info.csproj|solutionrelative:student-info\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student-Info\\Views\\Data\\Table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA3A5295-4BC2-409A-BC9B-F5E4057BB5B5}|Student-Info\\Student-Info.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\student-info\\student-info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA3A5295-4BC2-409A-BC9B-F5E4057BB5B5}|Student-Info\\Student-Info.csproj|solutionrelative:student-info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student-Info\\Views\\Data\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA3A5295-4BC2-409A-BC9B-F5E4057BB5B5}|Student-Info\\Student-Info.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\student-info\\student-info\\views\\data\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CA3A5295-4BC2-409A-BC9B-F5E4057BB5B5}|Student-Info\\Student-Info.csproj|solutionrelative:student-info\\views\\data\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Student-Info\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,26 +34,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Table.cshtml",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Table.cshtml",
               "RelativeDocumentMoniker": "Student-Info\\Views\\Data\\Table.cshtml",
               "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Table.cshtml",
               "RelativeToolTip": "Student-Info\\Views\\Data\\Table.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-17T20:22:02.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Program.cs",
               "RelativeDocumentMoniker": "Student-Info\\Program.cs",
               "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Program.cs",
               "RelativeToolTip": "Student-Info\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T19:34:14.223Z",
               "EditorCaption": ""
@@ -66,20 +66,20 @@
               "RelativeDocumentMoniker": "Student-Info\\Controllers\\Data.cs",
               "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Controllers\\Data.cs",
               "RelativeToolTip": "Student-Info\\Controllers\\Data.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T19:20:19.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Index.cshtml",
               "RelativeDocumentMoniker": "Student-Info\\Views\\Data\\Index.cshtml",
               "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Student-Info\\Student-Info\\Views\\Data\\Index.cshtml",
               "RelativeToolTip": "Student-Info\\Views\\Data\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-17T19:22:05.205Z",
               "EditorCaption": ""

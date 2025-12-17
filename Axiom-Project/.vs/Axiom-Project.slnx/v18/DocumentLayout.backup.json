@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\views\\usercontroller1\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\views\\usercontroller1\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\views\\usercontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\views\\usercontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\views\\usercontroller1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\views\\usercontroller1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\wwwroot\\js\\routing.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\wwwroot\\js\\routing.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -10,36 +50,12 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/UserAuthentication/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\views\\usercontroller1\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\views\\usercontroller1\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\views\\usercontroller1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\views\\usercontroller1\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\views\\usercontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\views\\usercontroller1\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\axiom-project\\axiom-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4BAF19-B5C6-5614-6FD3-78BB4345614D}|Axiom-Project\\Axiom-Project.csproj|solutionrelative:axiom-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,11 +65,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Axiom-Project\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Axiom-Project\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T09:37:16.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Axiom-Project\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Axiom-Project\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T09:35:51.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Axiom-Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Axiom-Project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA3wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T09:33:13.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Models\\User.cs",
               "RelativeDocumentMoniker": "Axiom-Project\\Models\\User.cs",
@@ -61,11 +116,77 @@
               "RelativeToolTip": "Axiom-Project\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAmwAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T07:40:43.792Z"
+              "WhenOpened": "2025-11-20T07:40:43.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\UserController1\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Axiom-Project\\Views\\UserController1\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\UserController1\\Dashboard.cshtml",
+              "RelativeToolTip": "Axiom-Project\\Views\\UserController1\\Dashboard.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAswFEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T18:49:22.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Program.cs",
+              "RelativeDocumentMoniker": "Axiom-Project\\Program.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Program.cs",
+              "RelativeToolTip": "Axiom-Project\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T11:20:18.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Routing.js",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\wwwroot\\js\\Routing.js",
+              "RelativeDocumentMoniker": "Axiom-Project\\wwwroot\\js\\Routing.js",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\wwwroot\\js\\Routing.js",
+              "RelativeToolTip": "Axiom-Project\\wwwroot\\js\\Routing.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-02T09:32:50.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\UserController1\\Login.cshtml",
+              "RelativeDocumentMoniker": "Axiom-Project\\Views\\UserController1\\Login.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\UserController1\\Login.cshtml",
+              "RelativeToolTip": "Axiom-Project\\Views\\UserController1\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T18:50:50.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\UserController1\\Register.cshtml",
+              "RelativeDocumentMoniker": "Axiom-Project\\Views\\UserController1\\Register.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\UserController1\\Register.cshtml",
+              "RelativeToolTip": "Axiom-Project\\Views\\UserController1\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T18:43:46.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Axiom-Project\\appsettings.Development.json",
@@ -78,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\appsettings.json",
               "RelativeDocumentMoniker": "Axiom-Project\\appsettings.json",
@@ -90,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "dbo.Users.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/UserAuthentication/True/SqlTable/dbo.Users.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/UserAuthentication/True/SqlTable/dbo.Users.sql",
@@ -99,43 +220,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\UserController1\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "Axiom-Project\\Views\\UserController1\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\UserController1\\Dashboard.cshtml",
-              "RelativeToolTip": "Axiom-Project\\Views\\UserController1\\Dashboard.cshtml",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAswFEAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T18:49:22.736Z"
+              "DocumentIndex": 9,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\wwwroot\\css\\Home.css",
+              "RelativeDocumentMoniker": "Axiom-Project\\wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\wwwroot\\css\\Home.css",
+              "RelativeToolTip": "Axiom-Project\\wwwroot\\css\\Home.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-19T18:36:29.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\UserController1\\Login.cshtml",
-              "RelativeDocumentMoniker": "Axiom-Project\\Views\\UserController1\\Login.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\UserController1\\Login.cshtml",
-              "RelativeToolTip": "Axiom-Project\\Views\\UserController1\\Login.cshtml",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAswHgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T18:50:50.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\UserController1\\Register.cshtml",
-              "RelativeDocumentMoniker": "Axiom-Project\\Views\\UserController1\\Register.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\UserController1\\Register.cshtml",
-              "RelativeToolTip": "Axiom-Project\\Views\\UserController1\\Register.cshtml",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAswGQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T18:43:46.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Axiom-Project\\Views\\Shared\\_Layout.cshtml",
@@ -144,30 +242,6 @@
               "ViewState": "AgIAACQAAAAAAAAAAAAAACsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-19T18:41:31.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Home.css",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\wwwroot\\css\\Home.css",
-              "RelativeDocumentMoniker": "Axiom-Project\\wwwroot\\css\\Home.css",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\wwwroot\\css\\Home.css",
-              "RelativeToolTip": "Axiom-Project\\wwwroot\\css\\Home.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-19T18:36:29.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Program.cs",
-              "RelativeDocumentMoniker": "Axiom-Project\\Program.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Axiom-Project\\Axiom-Project\\Program.cs",
-              "RelativeToolTip": "Axiom-Project\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwCMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T11:20:18.313Z"
             }
           ]
         }

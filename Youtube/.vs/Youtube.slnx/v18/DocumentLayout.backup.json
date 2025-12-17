@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\youtube\\youtube\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|solutionrelative:youtube\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Data\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Youtube\\Views\\Data\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\youtube\\youtube\\views\\routing\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|solutionrelative:youtube\\views\\routing\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Controllers\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Youtube\\Controllers\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\youtube\\youtube\\views\\routing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|solutionrelative:youtube\\views\\routing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Models\\Add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Youtube\\Models\\Add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\youtube\\youtube\\views\\routing\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|solutionrelative:youtube\\views\\routing\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Welcome\\Square.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Youtube\\Views\\Welcome\\Square.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\youtube\\youtube\\wwwroot\\css\\index.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|solutionrelative:youtube\\wwwroot\\css\\index.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Controllers\\Welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Youtube\\Controllers\\Welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\youtube\\youtube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|solutionrelative:youtube\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Welcome\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Youtube\\Views\\Welcome\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\youtube\\youtube\\views\\routing\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|solutionrelative:youtube\\views\\routing\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Youtube\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\youtube\\youtube\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|solutionrelative:youtube\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Youtube\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\youtube\\youtube\\controllers\\routing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|solutionrelative:youtube\\controllers\\routing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Youtube\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\youtube\\youtube\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7E1DF88D-6AD7-7CD4-9590-293CFEC89ACB}|Youtube\\Self.csproj|solutionrelative:youtube\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Youtube\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,8 +50,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Data\\Index.cshtml",
+              "RelativeDocumentMoniker": "Youtube\\Views\\Data\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Data\\Index.cshtml",
+              "RelativeToolTip": "Youtube\\Views\\Data\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T17:55:19.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Controllers\\Data.cs",
+              "RelativeDocumentMoniker": "Youtube\\Controllers\\Data.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Controllers\\Data.cs",
+              "RelativeToolTip": "Youtube\\Controllers\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:47:27.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Models\\Add.cs",
+              "RelativeDocumentMoniker": "Youtube\\Models\\Add.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Models\\Add.cs",
+              "RelativeToolTip": "Youtube\\Models\\Add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:45:01.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Welcome\\Square.cshtml",
+              "RelativeDocumentMoniker": "Youtube\\Views\\Welcome\\Square.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Welcome\\Square.cshtml",
+              "RelativeToolTip": "Youtube\\Views\\Welcome\\Square.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T17:34:27.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Controllers\\Welcome.cs",
+              "RelativeDocumentMoniker": "Youtube\\Controllers\\Welcome.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Controllers\\Welcome.cs",
+              "RelativeToolTip": "Youtube\\Controllers\\Welcome.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA4wAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:24:17.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Welcome\\Index.cshtml",
+              "RelativeDocumentMoniker": "Youtube\\Views\\Welcome\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Welcome\\Index.cshtml",
+              "RelativeToolTip": "Youtube\\Views\\Welcome\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T17:26:11.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Program.cs",
+              "RelativeDocumentMoniker": "Youtube\\Program.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Program.cs",
+              "RelativeToolTip": "Youtube\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T17:29:41.213Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -62,113 +147,19 @@
               "RelativeToolTip": "Youtube\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T17:18:37.993Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "index.js",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\wwwroot\\js\\index.js",
-              "RelativeDocumentMoniker": "Youtube\\wwwroot\\js\\index.js",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\wwwroot\\js\\index.js",
-              "RelativeToolTip": "Youtube\\wwwroot\\js\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-17T21:36:56.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\wwwroot\\css\\index.css",
-              "RelativeDocumentMoniker": "Youtube\\wwwroot\\css\\index.css",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\wwwroot\\css\\index.css",
-              "RelativeToolTip": "Youtube\\wwwroot\\css\\index.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-17T21:22:23.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Routing\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Youtube\\Views\\Routing\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Routing\\Contact.cshtml",
-              "RelativeToolTip": "Youtube\\Views\\Routing\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T21:20:21.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Routing\\About.cshtml",
-              "RelativeDocumentMoniker": "Youtube\\Views\\Routing\\About.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Routing\\About.cshtml",
-              "RelativeToolTip": "Youtube\\Views\\Routing\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T21:19:34.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Info.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Routing\\Info.cshtml",
-              "RelativeDocumentMoniker": "Youtube\\Views\\Routing\\Info.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Routing\\Info.cshtml",
-              "RelativeToolTip": "Youtube\\Views\\Routing\\Info.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T21:18:51.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Routing\\Index.cshtml",
-              "RelativeDocumentMoniker": "Youtube\\Views\\Routing\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Routing\\Index.cshtml",
-              "RelativeToolTip": "Youtube\\Views\\Routing\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T21:12:35.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Program.cs",
-              "RelativeDocumentMoniker": "Youtube\\Program.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Program.cs",
-              "RelativeToolTip": "Youtube\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T21:28:19.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-17T17:18:37.993Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Routing.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Controllers\\Routing.cs",
-              "RelativeDocumentMoniker": "Youtube\\Controllers\\Routing.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Controllers\\Routing.cs",
-              "RelativeToolTip": "Youtube\\Controllers\\Routing.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBIAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T21:11:52.058Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Youtube\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\Youtube\\Youtube\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Youtube\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T17:18:33.145Z"
             },
             {
               "$type": "Document",

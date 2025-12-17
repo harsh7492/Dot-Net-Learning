@@ -67,3 +67,6 @@ C:\API\API\obj\Debug\net10.0\refint\API.dll
 C:\API\API\obj\Debug\net10.0\API.pdb
 C:\API\API\obj\Debug\net10.0\API.genruntimeconfig.cache
 C:\API\API\obj\Debug\net10.0\ref\API.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\API\API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\API\API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hrai\OneDrive\Desktop\Dot-Net\API\API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
