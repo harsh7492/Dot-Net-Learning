@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\views\\crud\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\crud\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\views\\crud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\crud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\views\\record\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\record\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\views\\record\\student1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\record\\student1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\views\\harsh\\page4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\harsh\\page4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,16 +39,20 @@
       "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\harsh\\page1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\views\\crud\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\crud\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\views\\crud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\crud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\controllers\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,28 +63,12 @@
       "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\controllers\\harshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\harshcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\controllers\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\views\\record\\student1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\record\\student1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\views\\record\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\record\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6CC55CC-4C48-05CF-9997-EAA913F81323}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,71 +83,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "page3.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page3.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Harsh\\page3.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page3.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Harsh\\page3.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T10:08:13.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "page4.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page4.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Harsh\\page4.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page4.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Harsh\\page4.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T10:08:16.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "page2.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page2.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Harsh\\page2.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page2.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Harsh\\page2.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-17T19:44:00.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Result.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\CRUD\\Result.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\CRUD\\Result.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\CRUD\\Result.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\CRUD\\Result.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T10:08:51.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "page1.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page1.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Harsh\\page1.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page1.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Harsh\\page1.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T10:07:32.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\CRUD\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\CRUD\\Index.cshtml",
@@ -152,7 +95,163 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\CRUD\\Result.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\CRUD\\Result.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\CRUD\\Result.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\CRUD\\Result.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T10:08:51.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:05:22.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Record\\Data.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Record\\Data.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Record\\Data.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Record\\Data.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T10:08:27.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student1.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Record\\Student1.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Record\\Student1.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Record\\Student1.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Record\\Student1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T10:08:30.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "page4.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page4.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Harsh\\page4.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page4.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Harsh\\page4.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T10:08:16.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "page3.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page3.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Harsh\\page3.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page3.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Harsh\\page3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T10:08:13.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "page2.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page2.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Harsh\\page2.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page2.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Harsh\\page2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-17T19:44:00.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "page1.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page1.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Harsh\\page1.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Harsh\\page1.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Harsh\\page1.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T10:07:32.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Models\\DB.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\DB.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Models\\DB.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:09:21.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T20:18:42.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:09:25.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Controllers\\Record.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\Record.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Controllers\\Record.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\Record.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T19:42:32.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "People.cs",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Models\\People.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Models\\People.cs",
@@ -165,20 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Record.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Controllers\\Record.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\Record.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Controllers\\Record.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\Record.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwBYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T19:42:32.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
@@ -191,7 +277,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
+              "Title": "HarshController.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Controllers\\HarshController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HarshController.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Controllers\\HarshController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HarshController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T20:17:36.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "CRUD.cs",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Controllers\\CRUD.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\CRUD.cs",
@@ -201,67 +300,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T19:37:54.547Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "WebApplication2\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T10:09:25.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DB.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Models\\DB.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\DB.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Models\\DB.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\DB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T10:09:21.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Student1.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Record\\Student1.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Record\\Student1.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Record\\Student1.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Record\\Student1.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T10:08:30.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Data.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Record\\Data.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Record\\Data.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Views\\Record\\Data.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Record\\Data.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T10:08:27.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwBgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T10:05:22.851Z"
             }
           ]
         }

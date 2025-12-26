@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\controllers\\kit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\kit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\views\\kit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\kit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\models\\loginmodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\loginmodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\controllers\\logincontroller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\logincontroller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\models\\loginmodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\loginmodel\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\controllers\\kit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\kit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\views\\kit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\kit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|c:\\users\\hrai\\onedrive\\desktop\\dot-net\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,42 +54,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T02:13:21.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-15T02:12:47.623Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Models\\LoginModel\\Login.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\LoginModel\\Login.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Models\\LoginModel\\Login.cs*",
-              "RelativeToolTip": "WebApplication1\\Models\\LoginModel\\Login.cs*",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Models\\LoginModel\\Login.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\LoginModel\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T07:11:22.064Z",
@@ -93,7 +71,96 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T05:05:08.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Views\\KIT\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\KIT\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Views\\KIT\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\KIT\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T09:44:24.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Controllers\\LoginController\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LoginController\\LoginController.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Controllers\\LoginController\\LoginController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\LoginController\\LoginController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:25:05.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T20:12:59.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T02:12:47.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KIT.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Controllers\\KIT.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\KIT.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Controllers\\KIT.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\KIT.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T05:23:39.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T02:13:21.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -101,25 +168,11 @@
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T05:54:47.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T05:54:47.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KIT.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Controllers\\KIT.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\KIT.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Controllers\\KIT.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\KIT.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvwcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T05:23:39.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Models\\Login.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\Login.cs",
@@ -127,25 +180,11 @@
               "RelativeToolTip": "WebApplication1\\Models\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T07:45:54.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T07:45:54.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Controllers\\LoginController\\LoginController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LoginController\\LoginController.cs",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Controllers\\LoginController\\LoginController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\LoginController\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T07:25:05.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
@@ -154,32 +193,6 @@
               "ViewState": "AgIAACsAAAAAAAAAAAAAADYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-11-14T05:59:47.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T05:05:08.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Views\\KIT\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\KIT\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hrai\\OneDrive\\Desktop\\Dot-Net\\WebApplication1\\WebApplication1\\Views\\KIT\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\KIT\\Index.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswCsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T09:44:24.046Z",
-              "EditorCaption": ""
             }
           ]
         }
